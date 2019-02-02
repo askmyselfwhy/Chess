@@ -1,2 +1,2 @@
 # Chess
-Le classique chess game. Writter with usage of https://processing.org/
+Le classique chess game. Written with usage of https://processing.org/
